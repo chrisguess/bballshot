@@ -1,0 +1,15 @@
+body {
+    font-family: "Helvetica Neue", "Proxima Nova";
+    background-color: white;
+    font-weight: lighter;
+    color: black;
+    text-align: justify;
+    margin: 0;
+    /*width: 800px;*/
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue", "Proxima Nova";
+    font-weight: bold;
+    text-transform: uppercase;
+}

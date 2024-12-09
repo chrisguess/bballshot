@@ -1,0 +1,18 @@
+# Define IDS that are used across multiple pages
+# to denote any component IDs that are used in multiple places
+IDS = {
+    "SNAPSHOT_ID": "SNAPSHOT_ID",
+    "LOCATION": "LOCATION",
+    "HEADER-AT-A-GLANCE": "HEADER-AT-A-GLANCE",
+    "GRAPH-TEAM-SIM": "GRAPH-TEAM-SIM",
+    "GRAPH-SHOT-SUM": "GRAPH-SHOT-SUM",
+    "GRAPH-SHOTCHART-1": "GRAPH-SHOTCHART-1",
+    "GRAPH-SHOTCHART-2": "GRAPH-SHOTCHART-2",
+    "GRAPH-SHOTCHART-FILT": "GRAPH-SHOTCHART-FILT",
+    "GRAPH-VAR-IMPACT": "GRAPH-VAR-IMPACT",
+    "GRAPH-VAR-DETAIL": "GRAPH-VAR-DETAIL",
+    "FILT-PL": "FILT-PL",
+    "FILT-DEF": "FILT-DEF",
+    "FILT-CLOCK": "FILT-CLOCK",
+    "FILT-DRIBBLE": "FILT-DRIBBLE",
+}
